@@ -9,5 +9,5 @@ My name is Kyla Foreman and I am a second year MURP in the Community Economic De
 * Visualize data spatially to communicate the importance of place-based informatics
 * Create tables, charts, and maps that can be easily accessible and communicated to different audiences 
 ## Project Ideas 
-* Mapping code violations and compliance monitoring to hold corporate landlords accountable (incorporated and unincorporated LA)
+* Mapping code violations and compliance monitoring to hold corporate landlords and LA public housing agencies accountable 
 * 

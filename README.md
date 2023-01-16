@@ -11,3 +11,6 @@ My name is Kyla Foreman and I am a second year MURP in the Community Economic De
 * A map created for tenants that monitors housing code compliance cases 
 * Mapping "hazardous zones" (and "safe zones") in California to inform unhoused community members of principal vulnerable areas that are susceptible to severe flooding, falling trees, heavy winds, extreme heat, and wildfire 
 * Mapping where Cal OES grant dollars are awarded to identify possible inequalities in their funding distribution
+## Links 
+* My github: https://github.com/kylamonet
+* My repo: https://github.com/kylamonet/up221-Kyla
